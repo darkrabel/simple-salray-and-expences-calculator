@@ -2,19 +2,17 @@
 using namespace std;
 int main(){
     double monthly_salary , how_many_month , expences ,total_salry ,saved_money ;
-    cout<<"whai is your monthly slary :";
+    cout<<"What is your monthly salary: ";
     cin>>monthly_salary;
-    cout<<"how many month you have been doing job :";
+    cout<<"How many months have you been doing your job: ";
     cin>>how_many_month;
     //getting his expences
-    cout<<"what is your monthly expenses :";
+    cout<<"What are your monthly expenses: ";
     cin>>expences;
    
     total_salry = monthly_salary*how_many_month ;
    
-    cout<<"your total salary is :"<<total_salry<<endl;
+    cout<<"Your total salary is: "<<total_salry<<endl;
     saved_money = total_salry - expences;
-    cout<<"your saved money "<<saved_money; 
-    
-
+    cout<<"Your saved money: "<<saved_money;
 }
