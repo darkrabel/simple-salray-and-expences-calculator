@@ -1,2 +1,2 @@
-# simple-salray-and-expences-calculator
-This is a calculator that can help you to calculate your svings and total salary.
+# Simple salary and expences calculator
+This is a calculator that can help you calculate your savings and total salary.
